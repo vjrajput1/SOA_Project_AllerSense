@@ -1,4 +1,5 @@
 # SOA_Project_AllerSense
+Following is the detail regarding our project.
 1. Use Case and Overall Project Scope
 Use Case:
 AllerSense will help users with food allergies detect potential allergens in packaged food using AI-powered image scanning and providing them the notification of allergens present or not.
